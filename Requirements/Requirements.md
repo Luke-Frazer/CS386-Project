@@ -52,47 +52,59 @@ Many young adults tend to forget little items when going to the grocery store. M
 
 ### 6.2. Use Case Descriptions and Interface Sketch
 
-Use-Case: Submit online grocery list
+**Use Case #1:** Looking for closest store
 
-1 Brief Description
+**Actor:** User
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gives store your grocery list as an online order that is ready for curb side pickup.
+**Description:** The user searches for what store has their item, looking for the closest available store with it.
 
-2 Actor
+**Pre-Conditions:** The user has an account. The user has said what unit of measurement to use.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Customer
+**Post-Conditions:** The user has found what stores carry the given item, and knows which is closest.
 
-3 Preconditions
+**Main Flow:**
+ * The user searches their item in the search bar.
+ * The user can sort from a variety of options, including distance.
+ * The user can click on the item to ‘favorite’ it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The user has a grocery list already
+**Alternative Flows:**
+ * Users can access the items through the “Saved Items”, “Seasonal Items”, or “Deals & Coupons” tab rather than the search bar.
+ * User can sort using different options from distance.
 
-4 Main Flow
+**Use-Case #2:** Submit online grocery list
 
-1.	The user access custom grocery list.
-2.	User can finialize their list if any changes are needed.
-3.	User submits list and waits until order is ready.
-4.	The use case ends.
+**Brief Description:** Gives store your grocery list as an online order that is ready for curb side pickup.
+
+**Actor:** Customer
+
+**Preconditions** The user has a grocery list already
+
+**Post-conditions:** Their grocery list would be picked and ready for curbside pickup.
+
+**Main Flow:**
+ * The user access custom grocery list.
+ * User can finialize their list if any changes are needed.
+ * User submits list and waits until order is ready.
+ * The use case ends.
 	
-5 Alternative Flows
+**Alternative Flows:** If in step 3 of the basic flow a specfic item is out of stock, then 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If in step 3 of the basic flow a specfic item is out of stock, then 
+ * User will be notified and given other possible stores if they have said item
+ * The use case resumes at step 3
+  
+**Use case #3:** Recommend items
 
-1.	User will be notified and given other possible stores if they have said item
-2.	The use case resumes at step 3
+**Actor:** Admin
 
-6 Post-conditions
-	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Their grocery list would be picked and ready for curbside pickup.
+**Description:** The admin recommends a list of items that all shoppers on the app can see
 
-Use case: Recommend items
-Actor: Admin
-Description: The admin recommends a list of items that all shoppers on the app can see
-Pre-Conditions: The admin has a confirmed list that has been ‘ok’d’ by the group of owners
-Post-Conditions: The admin has posted a list and all users can now see the list
+**Pre-Conditions:** The admin has a confirmed list that has been ‘ok’d’ by the group of owners
 
-Main Flow: The admin creates a list of potential items a group of users might like and pushes the list out onto the app. Users can then see this list on their browse page 
+**Post-Conditions:** The admin has posted a list and all users can now see the list
 
-Alternative Flow: Admins can send out reminders to all users with recommended/ seasonal / holiday items. 
+**Main Flow:** The admin creates a list of potential items a group of users might like and pushes the list out onto the app. Users can then see this list on their browse page 
+
+**Alternative Flow:** Admins can send out reminders to all users with recommended/ seasonal / holiday items. 
   
 ## 7. User Stories
 
