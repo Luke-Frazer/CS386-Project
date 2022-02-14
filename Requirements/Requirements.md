@@ -71,6 +71,10 @@ Many young adults tend to forget little items when going to the grocery store. M
  * Users can access the items through the “Saved Items”, “Seasonal Items”, or “Deals & Coupons” tab rather than the search bar.
  * User can sort using different options from distance.
 
+Sketchup Image: 
+
+<img src="/Requirements/UseCase.png" alt="Use Case #1"/>
+
 **Use-Case #2:** Submit online grocery list
 
 **Brief Description:** Gives store your grocery list as an online order that is ready for curb side pickup.
