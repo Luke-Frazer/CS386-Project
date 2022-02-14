@@ -48,8 +48,6 @@ Many young adults tend to forget little items when going to the grocery store. M
 
 ## 6. Use Cases
 
-A use case would be “recommend items” and our actor would be Admin. This use case is only available to admin and it’s there to make a list of items that all shoppers on the app can see.
-
 ### 6.1. Use Case Diagram
 
 ### 6.2. Use Case Descriptions and Interface Sketch
