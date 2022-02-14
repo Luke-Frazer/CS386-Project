@@ -50,6 +50,8 @@ Many young adults tend to forget little items when going to the grocery store. M
 
 ### 6.1. Use Case Diagram
 
+<img src="/Requirements/useCaseDiagram.png" alt="UseCaseDiagram"/>
+
 ### 6.2. Use Case Descriptions and Interface Sketch
 
 **Use Case #1:** Looking for closest store
