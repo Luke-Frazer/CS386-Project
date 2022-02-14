@@ -50,6 +50,8 @@ Many young adults tend to forget little items when going to the grocery store. M
 
 ### 6.1. Use Case Diagram
 
+<img src="/Requirements/useCaseDiagram.png" alt="useCaseDiagram"/>
+
 ### 6.2. Use Case Descriptions and Interface Sketch
 
 **Use Case #1:** Looking for closest store
@@ -162,4 +164,4 @@ There is no alternate flow pattern.
 The issue tracker we are using is the Github Issue Tracker. This can be found at this link: https://github.com/Luke-Frazer/CS386-Project/issues
 
 Here is an image of our issue tracker:
-<img src="/Requirements/Issue Tracker.jpg" alt="Issue Tracker"/>
+w
