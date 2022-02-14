@@ -154,10 +154,16 @@ There is no alternate flow pattern.
 
 ## 7. User Stories
 
-* As a college student I want this app to remind me what items to buy so I don’t have to make multiple trips to the store (Priority #, 10 hours)
-* As a young adult I want this app to keep track of when I buy groceries so I can budget easier (Priority #, 6 hours)
-* As a developer I want to make a price match feature to give the user the best possible price on an item.(Priority, approximately 10 hours)
-* As a user I want to be able to update grocery list so I can constantly optimize my list to suit my needs(Priority #1, approximately 2 hours)
+* As a college student I want this app to remind me what items to buy so I don’t have to make multiple trips to the store (Priority 1, 10 hours)
+* As a young adult I want this app to keep track of when I buy groceries so I can budget easier (Priority 3, 6 hours)
+* As a developer I want to make a price match feature to give the user the best possible price on an item.(Priority 2, approximately 10 hours)
+* As a user I want to be able to update grocery list so I can constantly optimize my list to suit my needs(Priority #5, approximately 2 hours)
+* As a budgeting college student, I would love for this app to help remind me when to buy my essential groceries and where to get the best price. The ability to create a personalized portfolio of all of my commonly bought groceries would save so much time, effort, and money (Priority 4, 20 hours). 
+* As a developer, I would like to design the best possible features to help users save the maximum amount of money. I would like people to view our app as a money and time saver rather then a money draining app. This sort of view would bring more people to the platform in the long run (Priority 6, 10 hours)
+* As a user, I want the app to tell me when some ingredients are in season so I know when I should be buying them. (Priority 7, approximately 4 hours)
+* As a developer, I want to make the user interface intuitive enough that user’s don’t need a long-winded guide to use it. (Priority 9, approximately 10 hours)
+* As a user, I want this app to find the best grocery deals for me (Priority 10, 0 hours). 
+* As a developer I want to create a list system that can draw in people who are used to doing their grocery list non digitally (Priority 8, 8 hours). 
   
 ## 8. Issue Tracker
 
