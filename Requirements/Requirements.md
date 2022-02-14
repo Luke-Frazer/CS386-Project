@@ -152,6 +152,30 @@ The Admin repeats step one until all stores in the chosen range of the user have
 
 There is no alternate flow pattern. 
 
+**Use Case #6:** View my grocery portfolio
+
+**Brief Description:** The user opens the app and goes to their personal portfolio to view their items.
+
+**Actor:** Customer
+
+**Preconditions:** User had entered their groceries from 2 previous trips to generate their basic portfolio.
+
+**Post-Conditions:** The user can now use this portfolio as a shopping list on future trips.
+
+**Main Flow:**
+
+ * User opens the application.
+ * User clicks on their portfolio on the home page
+ * User views the portfolio for their next shopping list.
+
+**Alternative Flow:**
+
+The user did not previously enter shopping items and therefore does not yet have a portfolio.
+
+Sketch of portfolio page:
+
+<img src="/Requirements/UseCase#6.png" alt="Portfolio"/>
+
 ## 7. User Stories
 
 * As a college student I want this app to remind me what items to buy so I don’t have to make multiple trips to the store (Priority #, 10 hours)
@@ -164,4 +188,5 @@ There is no alternate flow pattern.
 The issue tracker we are using is the Github Issue Tracker. This can be found at this link: https://github.com/Luke-Frazer/CS386-Project/issues
 
 Here is an image of our issue tracker:
+
 <img src="/Requirements/Issue Tracker.jpg" alt="Issue Tracker"/>
