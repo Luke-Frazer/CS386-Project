@@ -130,6 +130,8 @@ The user is given a graphic and percentage representation of the money they can 
 
 If on the second step the user exceeds their budget, the budget will turn red and alert the shopper. 
 
+<img src="/Requirements/input budget.png" alt="Use Case #4"/>
+
 **Use case #5:** Search Stores for prices
 
 **Brief Description:** The Admin searches nearby stores prices to determine best deals
