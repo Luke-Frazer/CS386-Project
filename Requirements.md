@@ -85,6 +85,17 @@ Use-Case: Submit online grocery list
 6 Post-conditions
 	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Their grocery list would be picked and ready for curbside pickup.
+
+Use case: Recommend items
+Actor: Admin
+Description: The admin recommends a list of items that all shoppers on the app can see
+Pre-Conditions: The admin has a confirmed list that has been ‘ok’d’ by the group of owners
+Post-Conditions: The admin has posted a list and all users can now see the list
+
+Main Flow: The admin creates a list of potential items a group of users might like and pushes the list out onto the app. Users can then see this list on their browse page 
+
+Alternative Flow: Admins can send out reminders to all users with recommended/ seasonal / holiday items. 
+
   
 ## 7. User Stories
 
