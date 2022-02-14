@@ -19,6 +19,11 @@ MyGroceryAssistant is a grocery tracking app that helps young adults who often f
 
 
 ## 2. Stakeholders
+Developers - Develop and maintain the software. Developers will also test and make changes to problems found to improve clients experience.
+
+Users/Interviewees - The users will test the product through normal use and this will reveal problems and concerns with the software that we can improve for future users.
+
+Competitors - Other shopping/budgeting apps that have similar features to ours. We can compare our app to the competition to get a gauge on our ideas and how they might perform. 
 
 ## 3. Functional Requirements (Features)
 
