@@ -28,42 +28,50 @@ MyGroceryAssistant is a grocery tracking app that helps young adults who often f
 Many young adults tend to forget little items when going to the grocery store. MyGroceryAssistant can help relieve some of these small yet annoying issues. The main features of the app include a calendar that keeps track of what items you should buy and on what day. This feature will then add all grocery items into a list once the certain date is reached, keeping track of all the items that you may want to go out and re-buy. The second main feature of the app is the reminder function. This part of the app will give you weekly reminders of what items you may need for the upcoming week. We can test these features by providing the app different groups of grocery shoppers making sure the app responds with a unique and beneficial response.
 
 ## 6. Use Cases
-A use case would be “recommend items” and our actor would be Admin. This use case is only available to admin and it’s there to make a list of items that all shoppers on the app can see.
 
+A use case would be “recommend items” and our actor would be Admin. This use case is only available to admin and it’s there to make a list of items that all shoppers on the app can see.
 
 ### 6.1. Use Case Diagram
 
 ### 6.2. Use Case Descriptions and Interface Sketch
+
 Use-Case: Submit online grocery list
-1	Brief Description
-Gives store your grocery list as an online order that is ready for curb side pickup.
 
-2	Actor
-Customer
+1 Brief Description
 
-3	Preconditions
-The user has a grocery list already
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gives store your grocery list as an online order that is ready for curb side pickup.
 
-4	Main Flow
-1.	The user access custom grocery list
-2.	User can finialize their list if any changes are need
-3.	User submits list and waits until order is ready
-  
-5.	The use case ends.
-5	Alternative Flows
-If in step 3 of the basic flow a specfic item is out of stock, then 
+2 Actor
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Customer
+
+3 Preconditions
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The user has a grocery list already
+
+4 Main Flow
+
+1.	The user access custom grocery list.
+2.	User can finialize their list if any changes are needed.
+3.	User submits list and waits until order is ready.
+4.	The use case ends.
+	
+5 Alternative Flows
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If in step 3 of the basic flow a specfic item is out of stock, then 
+
 1.	User will be notified and given other possible stores if they have said item
 2.	The use case resumes at step 3
 
-8	Post-conditions
-Their grocery list would be picked and ready for curbside pickup.
+6 Post-conditions
+	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Their grocery list would be picked and ready for curbside pickup.
   
 ## 7. User Stories
-As a college student I want this app to remind me what items to buy so I don’t have to make multiple trips to the store (Priority #, 10 hours)
-As a young adult I want this app to keep track of when I buy groceries so I can budget easier (Priority #, 6 hours)
 
-
-As a developer I want to make a price match feature to give the user the best possible price on an item.(Priority, approximately 10 hours)
-As a user I want to be able to update grocery list so I can constantly optimize my list to suit my needs(Priority #1, approximately 2 hours)
+* As a college student I want this app to remind me what items to buy so I don’t have to make multiple trips to the store (Priority #, 10 hours)
+* As a young adult I want this app to keep track of when I buy groceries so I can budget easier (Priority #, 6 hours)
+* As a developer I want to make a price match feature to give the user the best possible price on an item.(Priority, approximately 10 hours)
+* As a user I want to be able to update grocery list so I can constantly optimize my list to suit my needs(Priority #1, approximately 2 hours)
   
 ## 8. Issue Tracker
