@@ -13,6 +13,7 @@ The problem of unorganized/unoptimized grocery shopping affects everyone who has
 the impact of which can cost you finically as well as waste time with extra grocery trips.
 
 ### 1.2. Product Position Statement
+For college students and young adults who have issues budgeting when shopping for groceries, MyGroceryAssistant is a planning and budgetization app that uses data to identify prices from multiple sources, informing users of better prices for their sought-after product. Unlike Instacart, our product accurately reflects the prices of products in the store, rather than s price that accounts for the service being used.
 
 ### 1.3. Value Proposition and Customer Segment
 MyGroceryAssistant is a grocery tracking app that helps young adults who often forget to pick up certain grocery items remember when and what to buy from the store by providing an interactive calendar and reminder feature that offers easier use than other competitors. 
