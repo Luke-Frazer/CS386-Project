@@ -105,7 +105,27 @@ Many young adults tend to forget little items when going to the grocery store. M
 **Main Flow:** The admin creates a list of potential items a group of users might like and pushes the list out onto the app. Users can then see this list on their browse page 
 
 **Alternative Flow:** Admins can send out reminders to all users with recommended/ seasonal / holiday items. 
-  
+
+**Use case #4:** Input Budget
+
+**Brief Description:** The User decides the budget they want the app to track for them. 
+
+**Actor:** Customer
+
+**Preconditions:** None
+
+**Post-Conditions:** The user can input groceries as they shop and get instant feedback on how much they have left to spend.
+
+**Main Flow:** 
+
+The user inputs the budget they want to follow
+
+The user is given a graphic and percentage representation of the money they can still spend on their budget as they shop
+
+**Alternate Flow:**
+
+If on the second step the user exceeds their budget, the budget will turn red and alert the shopper. 
+
 ## 7. User Stories
 
 * As a college student I want this app to remind me what items to buy so I don’t have to make multiple trips to the store (Priority #, 10 hours)
