@@ -130,6 +130,26 @@ The user is given a graphic and percentage representation of the money they can 
 
 If on the second step the user exceeds their budget, the budget will turn red and alert the shopper. 
 
+**Use case #5:** Search Stores for prices
+
+**Brief Description:** The Admin searches nearby stores prices to determine best deals
+
+**Actor:** Admin
+
+**Preconditions:** Having access to the stores information
+
+**Post-Conditions:** The Admin can update the price on the app and give customers up to date prices. 
+
+**Main Flow:** 
+
+The Admin checks a store in the nearby vicinity. 
+
+The Admin repeats step one until all stores in the chosen range of the user have been checked. 
+
+**Alternate Flow:**
+
+There is no alternate flow pattern. 
+
 ## 7. User Stories
 
 * As a college student I want this app to remind me what items to buy so I don’t have to make multiple trips to the store (Priority #, 10 hours)
