@@ -34,7 +34,7 @@ Competitors - Other shopping/budgeting apps that have similar features to ours. 
 5. Track seasonal items such as produce, holiday items, specials, etc and recommend items based on the season to the user. 
 6. Allow the user to enter which items they bought, where they bought them, and what price they bought them for in order to better optimize their portfolio.
 7. Allow the user to interact easily with the calendar, portfolio, settings, etc using a minimalist design with high functionality and customization. 
-8. Allow any errors recieved by the app to be immediately sent as a report to the developers with an estimated risk level attached based on number of users impacted. 
+8. Allow any errors receeved by the app to be immediately sent as a report to the developers with an estimated risk level attached based on the number of users impacted. 
 
 ## 4. Non-Functional Requirements
 
