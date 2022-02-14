@@ -114,3 +114,8 @@ Many young adults tend to forget little items when going to the grocery store. M
 * As a user I want to be able to update grocery list so I can constantly optimize my list to suit my needs(Priority #1, approximately 2 hours)
   
 ## 8. Issue Tracker
+
+The issue tracker we are using is the Github Issue Tracker. This can be found at this link: https://github.com/Luke-Frazer/CS386-Project/issues
+
+Here is an image of our issue tracker:
+<img src="/Requirements/Issue Tracker.jpg" alt="Issue Tracker"/>
