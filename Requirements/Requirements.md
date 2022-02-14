@@ -174,7 +174,7 @@ The user did not previously enter shopping items and therefore does not yet have
 
 Sketch of portfolio page:
 
-<img src="/Requirements/UseCase#6.png" alt="Portfolio"/>
+<img src="/Requirements/Use Case 6.jpg" alt="Portfolio"/>
 
 ## 7. User Stories
 
