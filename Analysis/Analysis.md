@@ -7,3 +7,4 @@ As a **user**, **you** can <ins>input</ins> which items **you** buy at the **sto
 
 ## Model
 
+<img src="/Analysis/D3 UML Class Diagram.png" alt="UML"/>
