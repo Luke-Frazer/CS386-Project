@@ -76,6 +76,9 @@ Print Screen: N/A
 
 # Tests
 
+ The testing for this iteration was focused on making sure the UI looked and performed clean.
+ Currently automated testing has not been implemented, but we have thoroughly tested the app's implemented features which can be seen in the Demo below.
+
 # Adopted Technologies
 
 The technologies used for this project were:
