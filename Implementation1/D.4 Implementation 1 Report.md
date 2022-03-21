@@ -60,16 +60,16 @@ Print Screen:
 **Requirements:** *As a budgeter, I need something that is connected to the internet so I have up to date prices*
 
 
-Pull Request:
+Pull Request: https://github.com/Luke-Frazer/CS386-Project/pull/45
 
 
 Implemented by: Jonathan Bloom
 
 
-Approved by:
+Approved by: Luke Frazer
 
 
-Print Screen:
+Print Screen: N/A
 
 
 
