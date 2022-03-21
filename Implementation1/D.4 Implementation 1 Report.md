@@ -60,16 +60,16 @@ Print Screen:
 **Requirements:** *As a budgeter, I need something that is connected to the internet so I have up to date prices*
 
 
-Pull Request:
+Pull Request: https://github.com/Luke-Frazer/CS386-Project/pull/45
 
 
 Implemented by: Jonathan Bloom
 
 
-Approved by:
+Approved by: Luke Frazer
 
 
-Print Screen:
+Print Screen: N/A
 
 
 
@@ -85,11 +85,14 @@ The technologies used for this project were:
 
 * **Android Studio Device Emulator:** Another tool in Android Studio, allowing developers to run an emulated Android device to run the application and test all functionality and features from the computer. 
 
+* **AWS S3 Buckets:** This technology was used to host our database files. It allows for a secure login for users to access files they need.
+
 # Learning/Training
 
 The team spent time both together and separately researching the best options for technologies. Once we all agreed on the IDE, UI designer, and other technologies, we spent time watching videos, reading articles, and experimenting with them to learn them as best as possible. This included some of the cited sources that we linked in the Readme. 
 
 # Deployment
+For deployment of our login system we chose to use AWS S3 buckets to host our database files. The program first makes sure the username is unique and not already registered. The program also makes sure the password is atleast 1 character long. And finally the login system can log in an existing user with its designated password.
 
 # Licensing
 
