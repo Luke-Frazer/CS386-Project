@@ -109,3 +109,7 @@ We went for a simplistic design to the User Interface. Some of the user stories 
 What we learned is that we need to do better with time management. We are planning on getting more stuff implemented between each other for the second release, and adding some other features (like a search bar for the Product List).
 
 # Demo
+
+https://user-images.githubusercontent.com/71099197/159203677-70cf4dc4-3d0e-495b-b545-ad5a861a87b5.mp4
+
+The demo displays the various aspects of the application. They are in a prototype state and still need much work, but they give the general idea of how it will work. 
