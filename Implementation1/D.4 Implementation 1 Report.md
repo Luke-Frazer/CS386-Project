@@ -17,7 +17,9 @@ Implemented by: Justin Eggan
 Approved by: Luke Frazer
 
 
-Print Screen:
+Print Screen: 
+
+<img src="/Implementation1/portfolio.png" alt="portfolio"/>
 
    
 **Requirements:** *As a busy Student, I want to be reminded of what I need to buy every month*
@@ -34,6 +36,8 @@ Approved by: Connor Swingle
 
 Print Screen:
 
+<img src="/Implementation1/Monthly.png" alt="monthly"/>
+
 
     
 **Requirements:** *As a weekly Shopper, I want a calendar where I am shown what I need every week not just every month*
@@ -49,6 +53,8 @@ Approved by: Luke Frazer
 
 
 Print Screen:
+
+<img src="/Implementation1/weekly.png" alt="weekly"/>
 
     
 **Requirements:** *As a budgeter, I need something that is connected to the internet so I have up to date prices*
