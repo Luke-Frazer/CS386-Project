@@ -100,6 +100,8 @@ For the licensing, we chose the GNU GPLv3 license. This was because it allowed s
 
 # Readme File
 
+Readme file attached to the main page of Implementation. 
+
 # Look & Feel
 
 We went for a simplistic design to the User Interface. Some of the user stories said that a simpler U.I is better than a complicated one. As such, our U.I is simple - basically just tabbed fragments with different elements on each. We wanted the U.I to be easy to see what everything does, rather than need a “How To Use” starting video or something of the like.
