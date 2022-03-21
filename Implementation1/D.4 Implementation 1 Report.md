@@ -90,6 +90,7 @@ The technologies used for this project were:
 The team spent time both together and separately researching the best options for technologies. Once we all agreed on the IDE, UI designer, and other technologies, we spent time watching videos, reading articles, and experimenting with them to learn them as best as possible. This included some of the cited sources that we linked in the Readme. 
 
 # Deployment
+For deployment of our login system we chose to use AWS S3 buckets to host our database files. The program first makes sure the username is unique and not already registered. The program also makes sure the password is atleast 1 character long. And finally the login system can log in an existing user with its designated password.
 
 # Licensing
 
