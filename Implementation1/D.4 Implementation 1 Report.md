@@ -85,6 +85,8 @@ The technologies used for this project were:
 
 * **Android Studio Device Emulator:** Another tool in Android Studio, allowing developers to run an emulated Android device to run the application and test all functionality and features from the computer. 
 
+* **AWS S3 Buckets:** This technology was used to host our database files. It allows for a secure login for users to access files they need.
+
 # Learning/Training
 
 The team spent time both together and separately researching the best options for technologies. Once we all agreed on the IDE, UI designer, and other technologies, we spent time watching videos, reading articles, and experimenting with them to learn them as best as possible. This included some of the cited sources that we linked in the Readme. 
