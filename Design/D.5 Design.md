@@ -38,6 +38,9 @@
 
 
 ## 5. Design Patterns ##
+Design Pattern 1: Method to set the hour in the calendar so events can be set by hour
+
+Design Pattern 2: Method gives functionality to clicking on a date in the calendar
 
 ## 6. Design Principles ##
 Single-Responsibility
