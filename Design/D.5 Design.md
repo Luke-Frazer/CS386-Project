@@ -40,3 +40,16 @@
 ## 5. Design Patterns ##
 
 ## 6. Design Principles ##
+Single-Responsibility
+Open-Closed
+Liskov Substitution
+Interface Segregation
+Dependency Inversion
+
+Our design observes 4 of the 5 SOLID principles in it’s current build state. It follows the first 4 principles of SOLID, but sadly not the last. It follows Single-Responsibility (S) the most with the adapter classes (RVAdapter and VPAdapter) for our main interface. Each of these has separate functions for each responsibility - in no case is one function doing the job of multiple - for example, getCount() only returns a size, addFragment() only adds a new fragment, et cetera.
+
+It follows Open-Closed by having all variables and such be references and variables added in during calls or through builders. An example of this would be through the product list - rather than modifying the class to add new items to the list, there is a builder in a different class (setProductInfo()) that builds off of this function.
+
+We observe Liskov Substitution by not having any derived classes or subclasses.
+
+We observe Interface Segregation by making sure whatever functions or other such implementations we put in classes are all used, and none are dropped. An example of this is the class that runs our product view page - it imports View, ViewGroup, and LayoutInflator and each of those is used (View and ViewGroup to create the interface itself, LayoutInflater “shows” it). We do not import any unused classes in our builds.
