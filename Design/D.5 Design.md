@@ -11,6 +11,8 @@
 
 ## 3. Class Diagram ##
 
+![image](https://user-images.githubusercontent.com/71099197/161486092-0d8bcac9-4113-4eab-8dde-ce53fdc61ac9.png)
+
 ## 4. Sequence Diagram ##
 
 ### Description ###
