@@ -1,6 +1,8 @@
 # D.5 Design #
 
 ## 1. Description ##
+  MyGroceryHelper is a free, simple, and organized way to help you manage shopping and budget with no headaches. The main features of the software are a calendar that events can be manually entered in or events can appear automatically according to your shopping habits, and a clear portfolio to show what you buy weekly.
+  Everything works together under one user friendly UI which makes scheduling trips to the grocery store, choosing the best place to shop, and analyzing previous shopping history a complete breeze.
 
 ## 2. Architecture ##
 
