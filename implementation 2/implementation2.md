@@ -22,6 +22,8 @@ Testing for our product was done by checking our work as we go. With every chang
 
 ## 4. Demo ##
 
+https://user-images.githubusercontent.com/71099197/163757060-f7fd33c9-7a3a-42de-a743-14b3d7c408cb.mp4
+
 ## 5. Code Quality ##
 
 Our team focused on using Github to keep each other accountable for all pushes. Each time a project was modified and pushed to github, others would review the code and make comments on how to improve it if needed. Once the push was verified to be clean, cohesive, and efficient, it would be pushed to the main branch. Additionally, much of the group met together to either discuss how to implement certain features or to work on coding together in order to make sure all parts would fit together well. In the end, we were able to piece each individual developers code into one coherent package. 
