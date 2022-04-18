@@ -1,6 +1,10 @@
 # D.6 Implementation 2 #
 
-## 1. Indroduction ## 
+## 1. Introduction ## 
+
+MyGroceryHelper is a free, simple, and organized way to help you manage shopping and budget with no headaches. The software includes an intuitive menu system that is very easy to operate. The main functions are a calendar that you can manually enter events in and over time the app will learn your shopping habits and schedule them for you. The next main feature is the portfolio. This is a list of everything that you buy and how frequently. This tab also contains information on the best place to shop for the best deals on these items. 
+
+**Github Link:** https://github.com/Luke-Frazer/CS386-Project
 
 ## 2. Implemented Requirements ## 
 
