@@ -16,6 +16,10 @@ Implemented by: Justin
 
 Approved by: Jack
 
+Image: 
+
+![image](https://user-images.githubusercontent.com/71099197/163757172-666cbcf1-604b-4a18-8889-ccbcb9ec4df8.png)
+
 ## 3. Tests ##
 
 Testing for our product was done by checking our work as we go. With every change we made, we would make sure the output looked correct. Since there is not any real data to test yet, we have not implemented any unit testing at this point. Unit testing, along with various other testing methods will be implemented as we have more and more data to work with.
