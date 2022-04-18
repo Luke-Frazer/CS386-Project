@@ -8,6 +8,14 @@ MyGroceryHelper is a free, simple, and organized way to help you manage shopping
 
 ## 2. Implemented Requirements ## 
 
+Requirement: As a user, I would like a smooth user interface experience.
+
+Pull Request: https://github.com/Luke-Frazer/CS386-Project/pull/58
+
+Implemented by: Justin
+
+Approved by: Jack
+
 ## 3. Tests ##
 
 Testing for our product was done by checking our work as we go. With every change we made, we would make sure the output looked correct. Since there is not any real data to test yet, we have not implemented any unit testing at this point. Unit testing, along with various other testing methods will be implemented as we have more and more data to work with.
