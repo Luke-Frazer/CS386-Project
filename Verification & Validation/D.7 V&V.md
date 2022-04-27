@@ -12,6 +12,8 @@ MyGroceryHelper is a free, simple, and organized way to help you manage shopping
 
 #### Test Framework ####
 
+JUnit 5 was used for the Unit tests of this app.
+
 #### Link to Automated Tests ####
 
 #### Example Test Case ####
@@ -22,11 +24,29 @@ MyGroceryHelper is a free, simple, and organized way to help you manage shopping
 
 #### Test Framework Used ####
 
+JUnit 5 was used for the Unit tests of this app.
+
 #### Link to Automated Tests ####
+
+https://github.com/Luke-Frazer/CS386-Project/blob/main/Verification%20%26%20Validation/ExampleInstrumentedTest.java
 
 #### Example Acceptance Test ####
 
+@RunWith(AndroidJUnit4.class)
+public class ExampleInstrumentedTest {
+    @Test
+    public void useAppContext() {
+        // Context of the app under test.
+        Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
+        assertEquals("com.example.calendarapp", appContext.getPackageName());
+    }
+}
+
+The code above launches the calendar and verifies that it is running.
+
 #### A Print Screen ####
+
+![image](https://user-images.githubusercontent.com/71099197/165417331-f2aaa3dd-933c-4e31-b358-373e84da1825.png)
 
 ## Validation (User Eval) ##
 
